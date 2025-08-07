@@ -2,7 +2,7 @@
 
 이 저장소는 제가 참여한 Kaggle 대회들의 프로젝트를 정리한 공간입니다.
 
-## 📂 대회 목록
+## 대회 목록
 
 - [Predict the Introverts from the Extroverts - 내향/외향인 예측](./predict-introvers)
 - [Store Sales - Time Series Forecasting - 매장 매출 예측](./store-sales)
